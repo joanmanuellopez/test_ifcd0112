@@ -1,0 +1,57 @@
+País ID;País;País_ISO;Región FK
+1;Angola;AGO;1
+2;Argentina;ARG;2
+3;Brasil;BRA;2
+4;Australia;AUS;3
+5;Austria;AUT;4
+6;Bélgica;BEL;4
+7;Canadá;CAN;2
+8;Suiza;CHE;4
+9;Chile;CHL;2
+10;China;CHN;5
+11;Camerún;CMR;1
+12;Colombia;COL;2
+13;Costa Rica;CRI;2
+14;República Checa;CZE;4
+15;Alemania;DEU;4
+16;República Dominicana;DOM;2
+17;Argelia;DZA;1
+18;Ecuador;ECU;2
+19;Egipto;EGY;1
+20;España;ESP;4
+21;Finlandia;FIN;4
+22;Francia;FRA;4
+23;Reino Unido;GBR;4
+24;Grecia;GRC;4
+25;Guatemala;GTM;2
+26;Hungría;HUN;4
+27;Indonesia;IDN;5
+28;India;IND;5
+29;Irlanda;IRL;4
+30;Irán;IRN;5
+31;Israel;ISR;5
+32;Italia;ITA;4
+33;Japón;JPN;5
+34;Kenia;KEN;1
+35;República de Corea;KOR;5
+36;México;MEX;2
+37;Malasia;MYS;5
+38;Nigeria;NGA;1
+39;Noruega;NOR;4
+40;Perú;PER;2
+41;Filipinas;PHL;5
+42;Polonia;POL;4
+43;Portugal;PRT;4
+44;Rusia;RUS;5
+45;Sudán;SDN;1
+46;Eslovaquia;SVK;4
+47;Suecia;SWE;4
+48;Tailandia;THA;5
+49;Turquía;TUR;5
+50;Tanzania;TZA;1
+51;Ucrania;UKR;4
+52;Estados Unidos;USA;2
+53;Venezuela;VEN;2
+54;Yemen;YEM;5
+55;Sudáfrica;ZAF;1
+56;Nueva Zelanda;NZL;3
